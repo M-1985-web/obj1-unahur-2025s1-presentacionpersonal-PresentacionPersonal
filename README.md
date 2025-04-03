@@ -2,9 +2,7 @@
 
 # Programación con objetos I
 ## Presentación Personal
-
-<img src="https://github.com/user-attachments/assets/397e6f4d-27bf-4a50-92ce-844c70a0adc2" width="200" height="150">
-
+<img src="https://github.com/user-attachments/assets/397e6f4d-27bf-4a50-92ce-844c70a0adc2" style="border-radius: 50%;" width="200">
 ### Datos Personales
 Mi nombre es Martín, tengo 39 años, y vivo en Merlo (Libertad).
 
