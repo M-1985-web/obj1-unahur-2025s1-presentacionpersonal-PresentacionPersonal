@@ -3,12 +3,7 @@
 # Programación con objetos I
 ## Presentación Personal
 <div>
-  <style>
-      .imagen-redondeada {
-          border-radius: 50%;
-      }
-  </style>
-  <img src="https://github.com/user-attachments/assets/397e6f4d-27bf-4a50-92ce-844c70a0adc2" class="imagen-redondeada" width="200">
+  <img src="https://github.com/user-attachments/assets/397e6f4d-27bf-4a50-92ce-844c70a0adc2" width="100" height="100">
 </div>
 
 ### Datos Personales
