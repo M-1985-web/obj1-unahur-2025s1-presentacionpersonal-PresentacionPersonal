@@ -3,7 +3,7 @@
 # Programación con objetos I
 ## Presentación Personal
 <div>
-  <img src="https://github.com/user-attachments/assets/397e6f4d-27bf-4a50-92ce-844c70a0adc2" style="border-radius: 90%;" width="100">
+  <img src="https://github.com/user-attachments/assets/397e6f4d-27bf-4a50-92ce-844c70a0adc2" style="border-radius: 85%;" width="100" height="100">
 </div>
 
 ### Datos Personales
